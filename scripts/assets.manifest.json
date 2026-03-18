@@ -4,7 +4,7 @@
     {
       "id": "qwen3vl",
       "tag": "qwen3vl-v1.0.0",
-      "name": "Qwen3VL-1.0.0.tar.zst",
+      "name": "Qwen3-VL-2B-MLX-4BIT-1.0.0.tar.zst",
       "sha256": "...",
       "type": "tar.zst",
       "targetPath": "auto"
