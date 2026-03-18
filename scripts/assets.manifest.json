@@ -1,0 +1,29 @@
+{
+  "assetsRepo": "<org>/echoscape-assets",
+  "files": [
+    {
+      "id": "qwen3vl",
+      "tag": "qwen3vl-v1.0.0",
+      "name": "Qwen3VL-1.0.0.tar.zst",
+      "sha256": "...",
+      "type": "tar.zst",
+      "targetPath": "auto"
+    },
+    {
+      "id": "opencv2",
+      "tag": "opencv2-v4.10.0",
+      "name": "opencv2.framework-4.10.0.zip",
+      "sha256": "...",
+      "type": "zip",
+      "targetPath": "EchoScape/Frameworks/opencv2.framework"
+    },
+    {
+      "id": "da3",
+      "tag": "da3-v0.2.1",
+      "name": "DA3-0.2.1.tar.zst",
+      "sha256": "...",
+      "type": "tar.zst",
+      "targetPath": "EchoScape/coreml/DA3"
+    }
+  ]
+}
